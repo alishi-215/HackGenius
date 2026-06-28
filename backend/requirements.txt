@@ -1,0 +1,10 @@
+flask
+flask-sqlalchemy
+flask-cors
+psycopg2-binary
+python-dotenv
+openai
+torch
+transformers
+accelerate
+einops
